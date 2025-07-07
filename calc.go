@@ -1,4 +1,4 @@
-package calc
+package go-calc
 
 import (
 	"fmt"
